@@ -1,0 +1,13 @@
+p{
+    text-align: center;
+
+}
+body{
+    background-image:linear-gradient(rgba(19, 0, 75, 0.952), rgb(5, 0, 0)), url('../photos/appart1.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color:white;
+
+    background-color: rgb(204, 204, 155);
+}
